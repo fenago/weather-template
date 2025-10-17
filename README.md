@@ -1,4 +1,4 @@
-# Welcome to the Weather App Template for `theappmarket.io` 👋
+# Welcome to the Weather App Template for `DrLee.io` 👋
 
 **Branded by FeNAgO and Dr. Lee**
 
