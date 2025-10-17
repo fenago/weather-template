@@ -1,6 +1,14 @@
 # Welcome to the Weather App Template for `theappmarket.io` 👋
 
+**Branded by FeNAgO and Dr. Lee**
+
 This is a template for a weather app that will be made for the `theappmarket.io` platform, created with Expo. It includes basic features for a weather app, such as weather updates, and location-based forecasts.
+
+---
+
+## About
+
+This template is proudly developed and maintained by **FeNAgO** under the guidance of **Dr. Lee**.
 
 ## Get started
 
